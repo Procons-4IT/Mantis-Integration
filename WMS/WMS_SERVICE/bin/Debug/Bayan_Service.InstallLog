@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\Cricket_Service\bin\Debug\Bayan_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\Cricket_Service\bin\Debug\Bayan_Service.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\Cricket_Service\bin\Debug\Bayan_Service.exe
+Installing service Bayan_Service...
+Service Bayan_Service has been successfully installed.
+Creating EventLog source Bayan_Service in log Application...
+Committing assembly 'C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\Cricket_Service\bin\Debug\Bayan_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\Cricket_Service\bin\Debug\Bayan_Service.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\Cricket_Service\bin\Debug\Bayan_Service.exe
+Uninstalling assembly 'C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\Cricket_Service\bin\Debug\Bayan_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\Cricket_Service\bin\Debug\Bayan_Service.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\Cricket_Service\bin\Debug\Bayan_Service.exe
+Removing EventLog source Bayan_Service.
+Service Bayan_Service is being removed from the system...
+Service Bayan_Service was successfully removed from the system.

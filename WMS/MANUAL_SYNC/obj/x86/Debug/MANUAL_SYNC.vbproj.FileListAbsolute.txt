@@ -1,0 +1,48 @@
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\bin\Debug\BAYAN_LIB.dll
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\bin\Debug\BAYAN_LIB.pdb
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\bin\Debug\BAYAN_LIB.xml
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\obj\x86\Debug\MANUAL_SYNC.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\obj\x86\Debug\MANUAL_SYNC.vbproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frm_Check.resources
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\obj\x86\Debug\MANUAL_SYNC.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\ExceltoDIAPI\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\bin\Debug\WindowsApplication1.exe.config
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\obj\x86\Debug\MANUAL_SYNC.vbproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\bin\Debug\WindowsApplication1.exe
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\bin\Debug\WindowsApplication1.pdb
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\bin\Debug\WindowsApplication1.xml
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\bin\Debug\BAYAN_LIB.dll
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\bin\Debug\BAYAN_LIB.pdb
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\bin\Debug\BAYAN_LIB.xml
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\obj\x86\Debug\MANUAL_SYNC.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\obj\x86\Debug\WindowsApplication1.frm_Check.resources
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\LENOVO\Desktop\BAYAN\Window Service\BAYAN\MANUAL_SYNC\obj\x86\Debug\MANUAL_SYNC.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\obj\x86\Debug\MANUAL_SYNC.vbproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\obj\x86\Debug\MANUAL_SYNC.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\obj\x86\Debug\MANUAL_SYNC.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\bin\Debug\WMS_LIB.dll
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\bin\Debug\WMS_LIB.pdb
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\bin\Debug\WMS_LIB.xml
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\bin\Debug\MANUAL_SYNC.exe.config
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\bin\Debug\MANUAL_SYNC.exe
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\bin\Debug\MANUAL_SYNC.pdb
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\bin\Debug\MANUAL_SYNC.xml
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\obj\x86\Debug\MANUAL_SYNC.frm_Check.resources
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\obj\x86\Debug\MANUAL_SYNC.Resources.resources
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\obj\x86\Debug\MANUAL_SYNC.exe
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\obj\x86\Debug\MANUAL_SYNC.xml
+C:\Users\LENOVO\Desktop\WMS\MANUAL_SYNC\obj\x86\Debug\MANUAL_SYNC.pdb

@@ -1,0 +1,14 @@
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\bin\Release\Cricket_Service.exe.config
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\bin\Release\Cricket_Service.exe
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\bin\Release\Cricket_Service.pdb
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\bin\Release\Cricket_Library.dll
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\bin\Release\Cricket_Library.pdb
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\bin\Release\Cricket_Library.xml
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\obj\x86\Release\Cricket_Service.Cricket_Service.resources
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\obj\x86\Release\Cricket_Service.ProjectInstaller.resources
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\obj\x86\Release\Cricket_Service.Properties.Resources.resources
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\obj\x86\Release\Cricket_Service.exe
+D:\Project\procons4it\SAS\Cricket\Cricket\Cricket_Service\obj\x86\Release\Cricket_Service.pdb

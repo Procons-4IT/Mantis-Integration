@@ -1,0 +1,31 @@
+Company Connection
+Connected successfully
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DBNull'.
+   at WMS_LIB.clsLibrary.ExecuteNonQuery(String str)
+   at WMS_LIB.clsLibrary.importDelivery()
+ClientConnectionId:511b1c7e-547c-483f-84ed-de4d67f83aa1
+Error Number:102,State:1,Class:15
+Company Connection
+Connected successfully
+Company Connection
+Connected successfully
+Company Connection
+Connected successfully
+Company Connection
+Connected successfully
+Company Connection
+Connected successfully
+Company Connection
+Connected successfully
+Company Connection
+Connected successfully
+Company Connection
+Connected successfully
+Company Connection
+Connected successfully
+Company Connection
+Connected successfully
+Company Connection
+Connected successfully
+Company Connection
+Connected successfully

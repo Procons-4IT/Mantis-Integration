@@ -1,0 +1,8 @@
+Company Connection
+Connected successfully
+C:\Users\LENOVO\Desktop\BAYAN\OpenFolder\Execute_File_TAB - Copy.txt
+Pushing Data
+File : Execute_File_TAB - Copy.txt File Moved Successfully
+C:\Users\LENOVO\Desktop\BAYAN\OpenFolder\Execute_File_TAB.txt
+Pushing Data
+File : Execute_File_TAB.txt File Moved Successfully

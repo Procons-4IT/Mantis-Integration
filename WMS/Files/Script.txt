@@ -1,0 +1,2 @@
+Alter Table LVSBODocumentHeader
+Add lvsboh_SapMessage VarChar(255)
